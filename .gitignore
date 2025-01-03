@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+venv/
+.env/
+env/
+
+# Temporary files
+temp/
+unnecessary/
